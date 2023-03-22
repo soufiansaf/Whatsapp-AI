@@ -3,7 +3,7 @@ const chalk = require('chalk')
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //============================================================( YOU CAN EDIT )====================================================================//
 
-global.openaikey = process.env.OPEN_AI_KEY || "ENTER_API-KEY_HERE", //Put Open AI Api key
+global.openaikey = process.env.OPEN_AI_KEY || "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", //Put Open AI Api key
 	
 global.owner = process.env.OWNER || "94XXXXXXXX", //Bot Owner Number
 	
